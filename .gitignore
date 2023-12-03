@@ -1,0 +1,5 @@
+node_modules
+
+# all file exclute extention with .css in .gitignore file
+*.css
+
