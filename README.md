@@ -1,8 +1,3 @@
-# Script to extract code coverage exports from Chrome DevTools using Puppeteer in headless mode - across multiple URLs
+# Project Title: Code Coverage Export Tool - Web Performance Project
 
-Requires Node & Puppeteer to be installed
-
-Some relevant links:
-
-Parsing the resultant JSON keeping @media queries
-https://stackoverflow.com/a/63305992/4442148
+Project Description: I developed a tool that can extract code coverage exports from Chrome DevTools using Puppeteer in headless mode - across multiple URLs. The tool uses cli-table, lighthouse, and puppeteer libraries to launch Chrome in headless mode, run lighthouse audits on each URL, and generate code coverage reports in a table format. The tool can help web developers and testers identify and eliminate unused code, reduce the size of their bundles, and improve their web performance. This project demonstrates my skills in web development, testing, and automation.
